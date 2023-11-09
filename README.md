@@ -1,1 +1,1 @@
-# BookLibrary2SpringBoot
+Web приложение библиотека, с использованием Spring framework, в рамках задания на курсе Spring. Задание прилагается
